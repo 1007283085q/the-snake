@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  fs.cpp
+  游戏控制.cpp
+  初始化.cpp
+c:\users\administrator\desktop\软工项目实践汇总\优秀\贪吃蛇\consoleapplication1\初始化.cpp(69): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  sys.cpp
+  主函数.cpp
+  fuction.cpp
+c:\users\administrator\desktop\软工项目实践汇总\优秀\贪吃蛇\consoleapplication1\fuction.cpp(356): warning C4101: “a1”: 未引用的局部变量
+  array.cpp
+  正在生成代码...
+c:\users\administrator\desktop\软工项目实践汇总\优秀\贪吃蛇\consoleapplication1\游戏控制.cpp(60): warning C4715: “pause”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> C:\Users\Administrator\Desktop\软工项目实践汇总\优秀\贪吃蛇\Debug\ConsoleApplication1.exe
